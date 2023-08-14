@@ -37,7 +37,7 @@ return {
 	"Are you a firework, cause i can light you up", -- 36
 	"I'm not a chef, but I can fill you up", -- 37
 	"Is it hot in here? Or is it just you?", -- 38
-	"Hey boy, I just got some Boba Tea, but I bet it won’t be the last time I get balls in my mouth today.", -- 39
+	"Hey boy, I just got some Boba Tea, but I bet it won’t be the last time I get bawllss in my mouth today.", -- 39
 	"Are you a construction worker? Because I see a dump truck back there! Cla-Clow!", -- 40
 	"Do you believe in love at first sight? Or, do I have to walk by again?", -- 41
 	"You know what’s beautiful? Read the first word.", -- 42
@@ -47,6 +47,11 @@ return {
 	"There must be something wrong with my eyes… because I can’t take them off of you.", -- 46
 	"I always thought happiness started with ‘h,’ but turns out it begins with ‘u.’", -- 47
 	"Did you know that your body is made up of 60% water? Good thing I’m thirsty.", -- 48
-	"Are you my neighbor’s WiFi router? Cause I really wish you were a bit closer. ", -- 49
+	"Are you my neighbor’s WiFi router? Cause I really wish you were a bit closer.", -- 49
 	"I got us sushi for dinner, but that won’t be the only thing we do raw tonight.", -- 50
+        "Are you a subway sandwich artist? I’m hoping you can hook me up with a footlong!", -- 51
+        "My crush is ugly…without the GLY.", -- 52
+        "My therapist tells me I’m Type-A, because I’m always on top of things. How’d you like to be one of them?", -- 53
+        "Are you John Cena? Because I've never Cena girl like you before.", -- 54
+        "Are you chicken fingers and fries? Because I don't care how many options I have, I will always choose you.", -- 55
 }
