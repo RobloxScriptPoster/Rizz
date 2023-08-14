@@ -2,9 +2,9 @@ function Chat(message)
     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message , "All")
 end
 
-Rizz_Lines = loadstring(game:HttpGet("https://raw.githubusercontent.com/mikhailramlal/Rizzer/main/auto-update"))()
+Rizz_Lines = loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxScriptPoster/Rizz/main/Auto-update"))()
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/mikhailramlal/Rizzer/main/ui"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxScriptPoster/Rizz/main/Ui"))()
 
 local Rizz_Main = lib:Window("Rizzer")
 
