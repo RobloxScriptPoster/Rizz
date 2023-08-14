@@ -37,9 +37,9 @@ return {
 	"Are you a firework, cause i can light you up", -- 36
 	"I'm not a chef, but I can fill you up", -- 37
 	"Is it hot in here? Or is it just you?", -- 38
-	"Are you HTTP? Because without you, I’m only ://", -- 39
-	"I seem to have lost my number… can I have yours?", -- 40
-	"My parents told me to follow my dreams, so can I have your Instagram?", -- 41
+	"Hey boy, I just got some Boba Tea, but I bet it won’t be the last time I get balls in my mouth today.", -- 39
+	"Are you a construction worker? Because I see a dump truck back there! Cla-Clow!", -- 40
+	"Do you believe in love at first sight? Or, do I have to walk by again?", -- 41
 	"You know what’s beautiful? Read the first word.", -- 42
 	"On a scale from 1 to America, how free are you this weekend?", -- 43
 	"Are you a beaver? Because DAM!", -- 44
@@ -48,5 +48,5 @@ return {
 	"I always thought happiness started with ‘h,’ but turns out it begins with ‘u.’", -- 47
 	"Did you know that your body is made up of 60% water? Good thing I’m thirsty.", -- 48
 	"Are you my neighbor’s WiFi router? Cause I really wish you were a bit closer. ", -- 49
-	"Just to be clear, I’m a felon… cause I felon love with you. ", -- 50
+	"I got us sushi for dinner, but that won’t be the only thing we do raw tonight.", -- 50
 }
