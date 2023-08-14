@@ -42,7 +42,7 @@ return {
 	"Do you believe in love at first sight? Or, do I have to walk by again?", -- 41
 	"You know what’s beautiful? Read the first word.", -- 42
 	"On a scale from 1 to America, how free are you this weekend?", -- 43
-	"Are you a beaver? Because DAM!", -- 44
+	"Do you need a stud in your life? Cause I got the STD and all I need is U.", -- 44
 	"I ain’t gon’ use a pickup line, cause I’m tryna pin u down", -- 45
 	"There must be something wrong with my eyes… because I can’t take them off of you.", -- 46
 	"I always thought happiness started with ‘h,’ but turns out it begins with ‘u.’", -- 47
@@ -50,23 +50,24 @@ return {
 	"Are you my neighbor’s WiFi router? Cause I really wish you were a bit closer.", -- 49
 	"I got us sushi for dinner, but that won’t be the only thing we do raw tonight.", -- 50
         "Are you a subway sandwich artist? I’m hoping you can hook me up with a footlong!", -- 51
-        "My crush is ugly…without the GLY.", -- 52
+        "Let me insert my plug into your socket and we can generate some electricity.", -- 52
         "My therapist tells me I’m Type-A, because I’m always on top of things. How’d you like to be one of them?", -- 53
         "Are you John Cena? Because I've never Cena girl like you before.", -- 54
-        "Hey girl do you like Harry Potter? Because I want to wingardium leviosa up that skirt, alohamora those legs open and aqua erupto inside of your leaky cauldron", -- 55
+        "Hi, I’m an astronaut, and my next mission is to explore Uranus", -- 55
         "Are you a omelette? Because you’re eggsquisite.", -- 56
-        "If you were a vegetable, you’d be a ‘cute-cumber.’", -- 57
+        "If I flip a coin, what do you reckon my chances are of getting head’", -- 57
         "When I first saw you I said mashaallah, now I’m saying inshallah", -- 58
-        "Are you my pinky toe because you’re short, cute, and I kinda wanna bang-bang you on every piece of my furniture", -- 59
+        "Are you my pinky toe because you’re short, cute, and I kinda wanna beng you on every piece of my furniture", -- 59
         "If you jingle my bells, you would find more snow than usual", -- 60
         "I hope you like dragons, because I’ll be dragon my bawwlls across your face tonight.", -- 61
         "Was your dad a baker? Because you’ve got a nice set of buns buns.", -- 62
         " Someone vacuum my lap, I think this girl needs a clean place to sit.", -- 63
-        "Do you like to draw? Because I put the D in Raw.", -- 64
-        "Are you a drill sergeant? Because you have my privates standing at attention.", -- 65
+        "Do you like to draw? Because I put the letter D in Raww.", -- 64
+        "Are you the last air bender? ’cause I’d definitely like you bending for me.", -- 65
         "Can you do telekinesis? Because you’ve made a part of me move without even touching it.", -- 66
         "Are you a trampoline? Because I want to bounce on you.", -- 67
         "Do you have room for an extra tongue in your mouth?", -- 68
         "Are you an eco-friendly kind of girl? The baby preventer plastic in my pocket goes expires tomorrow, so why don’t you help me use it?", -- 69
-        "You’re so hot, my zipper is falling for you.", -- 70
+        "I don’t think I want babies, but I wouldn’t mind refining my baby-making technique with you.", -- 70
+        "Hi, I’m an astronaut, and my next mission is to explore Uranus", --
 }
