@@ -1,8 +1,6 @@
 return {
 	"Roses are red. Violets are fine.", wait(1) then
-        "Youll be the Six And ill be the Nine.", 
-end
-
+        "Youll be the Six And ill be the Nine.", -- 1
 	"I was feeling very off today, but then you turned me on.", -- 2 
 	"I have 206 bones in my body. Want to give me another one?", -- 3
 	"I’m not a weatherman, but you can expect a few more inches tonight.", -- 4
