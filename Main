@@ -17,4 +17,5 @@ end, true)
 
 Rizz_Main:Button("Rizz" , function() 
     Chat(getgenv().line2)
-end)
+  end)
+end
