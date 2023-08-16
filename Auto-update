@@ -1,124 +1,60 @@
 return {
-	"Roses are red. Violets are fine. You'll be the Six and i'll be the Nine.", -- 1
-	"I was feeling very off today, but then you turned me on.", -- 2 
-	"I have 206 bones in my body. Want to give me another one?", -- 3
-	"I’m not a weatherman, but you can expect a few more inches tonight.", -- 4
-	"Are you an archaeologist? Because I’ve got a large bone for you to examine.", -- 5
-	"Did you make Santa’s naughty list this year? You want to?", -- 6
-	"If you look that good in clothes, you must look even better out of them.", -- 7
-	"I’m an adventurer and I want to explore you.", -- 8
-	"Does your name start with “C” because I can “C” us getting down.", -- 9
-	"Is your name winter? Because you’ll be coming soon.", -- 10
-	"If I was the judge, I’d sentence you to my bed", -- 11
-	"I’m not feeling myself today. Can I feel you instead?", -- 12
-	"Someone should call the police because you just stole my heart!", -- 13
-	"I’m not a dentist, but I bet I could give you a filling.", -- 14
-	"I wish you were here to play ‘Simon Says’ with me… in bed", -- 15
-	"I don’t like children until they are OUR children. What do you think about that?", -- 16
-	"If you’re feeling down, I can feel you up.", -- 17
-	"Are you Siri? Because you autocomplete me", -- 18
-	"Are you a volcano? Coz I lava you!", -- 19
-	"Are you a camera? Because every time I look at you, I smile.", -- 20 
-	"Thank god I have life insurance. Because you make my heart stop.", -- 21
-	"You’re so beautiful that you made me forget my pick-up line.", -- 22
-	"Your lips look lonely. Wanna introduce them to mine?", -- 23
-	"Life without you is like a broken pencil. Pointless.", -- 24
-	"I know we’re not socks, but we make a great pair.", -- 25
-	"If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together.", -- 26
-	"Are you from Tennessee? Because you’re the only 10 I see!", -- 27
-	"I’m no photographer, but I can picture us together.", -- 28
-	"Are you a magician? When I look at you everything disappears.", -- 29
-	"Hey, tie your shoes! I don’t want you falling for anyone else.", -- 30
-	"Roses are red. Violets are blue. I didn’t know what perfect was until I met you.", -- 31
-	"I’d rate you a nine because the only thing missing is me.", -- 32
-	"Do you have a name, or can I call you mine?", -- 33
-	"Do you have an inhaler? You took my breath away.", -- 34
-	"What has 36 teeth and holds back the Incredible Hulk? My zipper.", -- 35
-	"Are you a firework, cause i can light you up", -- 36
-	"I'm not a chef, but I can fill you up", -- 37
-	"Is it hot in here? Or is it just you?", -- 38
-	"Hey boy, I just got some Boba Tea, but I bet it won’t be the last time I get bawllss in my mouth today.", -- 39
-	"Are you a construction worker? Because I see a dump truck back there! Cla-Clow!", -- 40
-	"Do you believe in love at first sight? Or, do I have to walk by again?", -- 41
-	"You know what’s beautiful? Read the first word.", -- 42
-	"On a scale from 1 to America, how free are you this weekend?", -- 43
-	"Do you need a stud in your life? Cause I got the STD and all I need is U.", -- 44
-	"I ain’t gon’ use a pickup line, cause I’m tryna pin u down", -- 45
-	"There must be something wrong with my eyes… because I can’t take them off of you.", -- 46
-	"I always thought happiness started with ‘h,’ but turns out it begins with ‘u.’", -- 47
-	"Did you know that your body is made up of 60% water? Good thing I’m thirsty.", -- 48
-	"Are you my neighbor’s WiFi router? Cause I really wish you were a bit closer.", -- 49
-	"I got us sushi for dinner, but that won’t be the only thing we do raw tonight.", -- 50
-        "Are you a subway sandwich artist? I’m hoping you can hook me up with a footlong!", -- 51
-        "Let me insert my plug into your socket and we can generate some electricity.", -- 52
-        "My therapist tells me I’m Type-A, because I’m always on top of things. How’d you like to be one of them?", -- 53
-        "Are you John Cena? Because I've never Cena girl like you before.", -- 54
-        "Hi, I’m an astronaut, and my next mission is to explore Uranus", -- 55
-        "Are you a omelette? Because you’re eggsquisite.", -- 56
-        "If I flip a coin, what do you reckon my chances are of getting a head from you?’", -- 57
-        "When I first saw you I said mashaallah, now I’m saying inshallah", -- 58
-        "Are you my pinky toe because you’re short, cute, and I kinda wanna beng you on every piece of my furniture", -- 59
-        "If you jingle my bells, you would find more snow than usual", -- 60
-        "I hope you like dragons, because I’ll be dragon my bawwlls across your face tonight.", -- 61
-        "Was your dad a baker? Because you’ve got a nice set of buns buns.", -- 62
-        " Someone vacuum my lap, I think this girl needs a clean place to sit.", -- 63
-        "Do you like to draw? Because I want to put my D in Raww.", -- 64
-        "We should settle this with a tongue-wrestling match. Loser buys dinner.", -- 65
-        "I can’t find my treasure anywhere. Can I search your chest and see if it’s there?", -- 66
-        "The only reason I would kick you out of bed would be to fawlk you on the floor.", -- 67
-        "Are you the last air bender? ’cause I’d definitely like you bending for me.", -- 68
-        "Can you do telekinesis? Because you’ve made a part of me move without even touching it.", -- 69
-        "Are you a trampoline? Because I want to bounce on you.", -- 70
-        "Do you have room for an extra tongue in your mouth?", -- 71
-        "Are you an eco-friendly kind of girl? The baby preventer plastic in my pocket goes expires tomorrow, so why don’t you help me use it?", -- 72
-        "I don’t think I want babies, but I wouldn’t mind refining my baby making technique with you.", -- 73
-        "Hi, I’m an astronaut, and my next mission is to explore Uranus", -- 74
-        "You can call me dishes because I want you to get me wet and do me all night long.", -- 75
-        "Did you drink Soda?, Because you look So-da-licious!", -- 75
-        "Do you know what rhymes with cucumber? Your number", -- 76
-        "Is your name WiFi? Because I’m really feeling a connection. And I can’t help but think that this could be perfection.", -- 77
-        "Me without you is like a nerd without braces, a shoe without laces, a sentence without spaces.", -- 78
-        "Roses are red Violets are blue Sugar is sweet Just like you! I want to kiss you honey, but your nose is runny, and you might think it’s funny, but it’s snot.", -- 79
-        "Oh! Are you Ariel? I think we “mermaid” for each other.", -- 80
-        "Are you 45° angle? I thought so. Because you are a-cute.", -- 81
-        "Are you a keyboard? Because you’re just my type.", -- 82
-        "Do you know what’s on today’s menu? It’s Me ‘n’ U.", -- 83
-        "Excuse me, but I think you dropped something: my jaw!", -- 84
-        "If you were a fruit, you’d be a ‘berry’ special one.", -- 85
-        "If loving you is a sin. Then i am a Fallen Angel, Who has fallen for You my Angel.", -- 86
-        "If I could rearrange the cosmos, I would replace the sun with you for your beauty shines brighter than any star ever will my dear", -- 87
-        "For your smile bewitched the hearts around, Radiating warmth, like sunbeams unbound. Your lips, like petals, soft and lush, Entrancing all who dared to brush.", -- 88
-        "If i were dared to shout to the world how much i love you, i would simply whisper it in your ears.", -- 
-        "If i was blinded the moment i lay my eyes on you, I would not grieve, for in that instance, i truly gazed upon perfection. ", -- 
-        "If i had to wait my entire life for your careness, I would. For when i have withered away, i’d be glad i got to experience heaven before i reached it.", -- 
-        "If you carried medusa’s curse, i would stare into your eyes so that my stone would gaze at your beauty for all eternity.", -- 
-        "And if God Were to give me Eternal Life, i would simply refuse. For a life without you is no different from Death Itself.", -- 
-        "And if I was told by God Himself to give each star a reason why i care for thou, i would simply run out of stars.", -- 
-        "Don't be shy about your insecurities, For when the day and night switch turns, to witness your Beauty.", -- 
-        "For even if i learned every language in the world,i still could'nt describe how beautiful you are, for your beauty is indescribable", -- 
-        "If your touch were a scorching inferno, I’d allow myself to be consumed by the flames, just as your beauty has consumed my heart", -- 
-        "If God made it a Sin to love you and witness your beauty I would be beyond saving even by the Devils standards", -- 
-        "If I could rearrange the cosmos, I would replace the sun with you for your beauty shines brighter than any star ever will my dear", --
-        "Your love is the beacon that guides me through the darkest storms, a lighthouse illuminating my heart’s ashore.", --
-        "And if i were to die beside you, I would simply accept my fate for with living without thou is like internal grievience.", --
-        "Thou laughter, a melody of pure delight, Like birdsong on a tranquil night. It danced upon the air, so sweet and pure, Hearts would soar and souls endure.", --
-        "In Thee presence, the world blossoms anew,Each moment spent, love nurtures and grew.For in you, I found a love so divine,A love that weaves destinies, forever intertwine.", --
-        "Thou are the bright star that guides me through the darkest night, The red rose in the field, Thou beauty a wondrous sight. Thou flow through my veins like the life-giving blood, And warm me with Thee love like the sun's apricity in winter's flood.", --
-        "Are you an angel, from heaven above? For your smile shines brighter than stars that I love.", --
-        "Can I borrow a kiss? I promise to return, With interest, in love, let our hearts both yearn.", --
-        "If beauty were petals, I'd pick you, my dear, For you're like a rare flower, so lovely and sheer.", --
-        "If love were a melody, you'd be the sweet tune, The harmony that makes my heart swoon.", --
-        "Is your name Google? 'Cause you've got everything I seek, In your eyes lies the answer to every question I speak.", --
-        "Did it hurt when you fell from heaven, my dove? For you're an angelic vision, sent from above.", --
-        "Are you a shooting star, granting wishes tonight? I'd wish for your love, forever shining so bright.", --
-        "Excuse me, but I think you dropped something divine, Your smile, your grace, this heart of mine.", --
-        "Do you believe in fate? 'Cause I do, you see, I'm convinced we were meant to be, you and me.", --
-        "In a crowded room, you caught my eye. Can i steal a Moment? just you and i.", --
-        "Are you made out of Honey? coz you're so sweet its funny.", --
-        "Are you made of puzzle pieces? Because our hobbies seem to fit together perfectly.", --
-        "Marching to the beat of your heart, my eyes can't help but follow your every step. With your grace and rhythm, you've captured my attention like a drum major commanding the band. Can I join your parade and march alongside you?", --
-        "Are you a magician? Because whenever I'm near, my heart goes abracadabra.", --
-        "Is your dad an artist? Because you're a masterpiece, no doubt.", --
-        "Do you have a map? Because I keep getting lost in your eyes' snap.", --
-        "Is your name Wi-Fi? Because I'm feeling a strong connection, oh my!", --
+	"When you are feeling anxious, God is there by your side to listen and help you heal.", -- 38
+	"Share the power of your religion with those around you who are looking to reconnect with the Lord.", -- 39
+	"Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.", -- 40
+	"Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe.", -- 41
+	"Taste and see that the Lord is good; blessed is the one who takes refuge in him.", -- 42
+	"Give thanks to the Lord, for He is good; his love endures forever.", -- 43
+	"Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love.", -- 44
+	"I can do all things through him who strengthens me.", -- 45
+	"Greater love has no one than this: to lay down one's life for one's friends.", -- 46
+	"Be strong, and let your heart take courage, all you who wait for the Lord!", -- 47
+	"The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?", -- 48
+	"What, then, shall we say in response to these things? If God is for us, who can be against us?", -
+        "The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.", -- 50
+	"Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.", -- 38
+	"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.", -- 39
+	"Sacred texts can provide inspiration and wisdom when you need it most.", -- 40
+	"What happens around you is not always the whole picture; trust that God has a plan in store for you.", -- 41
+	"When you are feeling nervous or stressed, open yourself up to God so that he can hear your prayers for help.", -- 42
+	"Trust in the Lord with all your heart; don’t rely on your own intelligence.", -- 43
+	" you love God, then He will make sure that you are also loved and cared for.", -- 44
+	"Through God's strength, you can take on all the obstacles which life throws your way.", -- 45
+	"The Lord will make sure there are only good things on your horizon.", -- 46
+	"The Lord is my shepherd. I lack nothing. He lets me rest in grassy meadows; he leads me to restful waters; he keeps me alive.", -- 47
+	"You may commit a sin in your lifetime, but as long as you work towards repentance, you can be forgiven.", -- 48
+	"The Lord gave the ultimate sacrifice for the people who love Him.", -- 49
+	"Focus on the beautiful things in your life when you need a dose of optimism.", -- 50
+	"With spirituality comes happiness, joy, and generosity.", -- 38
+	"You can learn humility from God, but there are other lessons which you will have to find within yourself.", -- 39
+	"If you believe in God, you will avoid judgment on earth and find eternal life in Heaven.", -- 40
+	"You don’t need to be afraid of anyone or anything when you believe in God because he will watch over you when fear sets in.", -- 41
+	"God is our refuge and strength, a help always near in times of great trouble.", -- 42
+	"Throughout your life, in the ups and the downs, God will be by your side to help you.", -- 43
+	"For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.", -- 44
+        "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.", -- 38
+	"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.", -- 39
+	"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.", -- 40
+	"The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.", -- 41
+	"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!", -- 42
+	"Come to me, all you who are weary and burdened, and I will give you rest.", -- 43
+	"Now faith is confidence in what we hope for and assurance about what we do not see.", -- 44
+	"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.", -- 45
+	"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.", -- 46
+	"For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.", -- 47
+	"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.", -- 48
+	"have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.", -- 49
+	"Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.", -- 50
+	"If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.", -- 38
+	"But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.", -- 39
+	"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,", -- 40
+	"gentleness and self-control. Against such things there is no law.", -- 41
+	"Jesus said to her, “I am the resurrection and the life. The one who believes in me will live, even though they die;", -- 42
+	"in all your ways acknowledge him, and he will make your paths straight.", -- 43
+	"Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.", -- 45
+	"For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.", -- 46
+	"And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.", -- 47
+	"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,", -- 48
+	"God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.", -- 49
+	"But seek first his kingdom and his righteousness, and all these things will be given to you as well.", -- 50
 }
